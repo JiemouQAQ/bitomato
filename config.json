@@ -1,0 +1,21 @@
+{
+  "workMinutes": 2,
+  "shortBreakMinutes": 5,
+  "longBreakMinutes": 15,
+  "sessionsBeforeLongBreak": 4,
+  "skinId": "D:/PyCharm/tomato2/skins/default",
+  "frameRate": 8,
+  "alwaysOnTop": true,
+  "soundEnabled": false,
+  "language": "zh-CN",
+  "uiScale": 2.0,
+  "manualBreak": false,
+  "countUpMode": false,
+  "frameDuration": 150,
+  "autoBackup": false,
+  "customSoundPath": "",
+  "textColor": "#ffffff",
+  "textOutlineEnabled": false,
+  "textOutlineColor": "#00ffff",
+  "textOutlineWidth": 2
+}

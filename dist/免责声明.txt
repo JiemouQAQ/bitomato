@@ -1,0 +1,81 @@
+番茄钟软件使用许可与免责协议
+重要提示：在下载、安装、使用本软件（指“BitTomatoClock”番茄钟应用程序，包括其可执行文件、相关皮肤文件及文档，下称“本软件”）前，请您务必仔细阅读并充分理解本协议的全部条款。本软件开发者与皮肤绘制者均为杰某official（下称“开发者”）。除非您已阅读、理解并同意接受本协议所有条款的约束，否则您无权使用本软件。您的下载、安装、使用等行为即视为您已阅读并同意接受本协议的约束。
+
+一、 许可与权利声明
+
+软件代码许可：本软件的核心程序代码（不包含任何皮肤文件）依据 MIT 开源许可证 授权。您有权使用、复制、修改、合并、发布、分发、再许可及/或销售本软件的副本。您必须在所有副本或实质性使用中保留原始的版权声明和本许可声明。MIT许可证全文可在本软件发布页或项目代码仓库中查看。
+
+免费皮肤许可：由开发者随本软件一同发布的“免费皮肤”，其图形内容同样遵循 MIT 开源许可证 授权。您可自由使用、修改并分发这些皮肤。
+
+付费定制皮肤：通过付费委托方式获得的“定制皮肤”是独立的委托创作作品。开发者依据委托方的具体要求绘制，该皮肤的知识产权在开发者完成交付后，依据双方签订的《委托创作合同》转移给委托方（即付费客户）。您若通过非官方渠道获得此类皮肤，其使用合法性无法得到保证。
+
+权利保留：MIT许可证未明确授予的所有权利，均由开发者保留。
+
+二、 免责声明
+
+“按现状”提供：无论是依据MIT许可证提供的软件代码与免费皮肤，还是付费的定制皮肤，均按 “现状” 和 “可用” 的状态提供。开发者不对其作任何形式的担保，包括但不限于其适销性、特定用途适用性、不侵权性的明示或默示担保。
+
+代码风险自担：使用本软件代码（包括修改后的版本）所产生的任何风险及后果，均由使用者自行承担。开发者对因使用本软件代码而产生的任何直接、间接、偶然、特殊或惩罚性损害（如数据丢失、利润损失、系统崩溃）不承担任何责任。
+
+付费皮肤责任隔离（核心条款）：
+a. 侵权责任归属：付费定制皮肤的内容完全基于委托方提供的素材、描述及要求进行创作。委托方有义务保证其提供的素材及要求不侵犯任何第三方知识产权。如因此类定制皮肤引发任何著作权、商标权等侵权纠纷，全部法律责任由提出该定制需求的委托方承担，与开发者无关。
+b. 开发者追偿权：若开发者因依据委托方要求创作的皮肤而遭受任何第三方索赔、诉讼或产生损失，开发者有权向该委托方进行全额追偿。
+
+第三方责任：本软件可能使用或包含遵循其他开源许可证的第三方组件，其权利与义务以对应许可证为准。开发者不对第三方组件的内容、功能或合法性负责。
+
+三、 用户行为规范
+
+遵守许可证：您在使用、修改或分发本软件代码及免费皮肤时，必须严格遵守MIT许可证的规定，特别是保留所有版权和许可声明。
+
+合法使用皮肤：您应确保所使用的所有皮肤文件来源合法。对于付费定制皮肤，您应确保已从合法权利人处获得使用授权。禁止使用任何已知侵权的皮肤。
+
+禁止滥用：您不得利用本软件从事任何违反法律法规或侵害他人合法权益的活动。
+
+四、 侵权处理
+
+如您认为本软件（包括代码或任何皮肤）侵犯了您的合法权益，请按以下步骤提交书面通知：
+
+提供权利人的身份证明与权属证明。
+
+指出涉嫌侵权的具体内容及位置。
+
+提供您的有效联系方式。
+开发者收到符合法律要求的有效通知后，将依据MIT许可证精神及中国法律，对涉嫌侵权的免费内容进行核查处理；对于付费定制皮肤，开发者将通知相关委托方并协助处理。
+
+五、 其他条款
+
+协议更新：开发者有权更新本协议，更新后的协议将在软件或发布页公示。若您继续使用本软件，即视为接受新协议。
+
+条款可分性：若本协议任何条款被认定为无效，不影响其他条款的效力。
+
+法律管辖：本协议之解释、效力及争议解决，均适用中华人民共和国法律。任何因本协议引起的争议，应首先友好协商；协商不成的，各方均有权将争议提交至开发者所在地有管辖权的人民法院诉讼解决。
+
+开发者联系方式：
+jiemou2505@qq.com
+
+生效日期：自软件发布日起
+
+--------------------------------------------------
+附：MIT License 全文
+
+MIT License
+
+Copyright (c) 2025 @杰某official
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

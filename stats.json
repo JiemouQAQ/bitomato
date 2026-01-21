@@ -1,0 +1,10 @@
+{
+  "total_focus_seconds": 0,
+  "total_focus_sessions": 0,
+  "bucket_seconds": {
+    "midnight": 0,
+    "morning": 0,
+    "afternoon": 0,
+    "evening": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "workMinutes": 1,
+  "shortBreakMinutes": 5,
+  "longBreakMinutes": 15,
+  "sessionsBeforeLongBreak": 4,
+  "skinId": "default",
+  "frameRate": 8,
+  "frameDuration": 100,
+  "uiScale": 1,
+  "alwaysOnTop": true,
+  "soundEnabled": true,
+  "manualBreak": false,
+  "countUpMode": false,
+  "autoBackup": false,
+  "customSoundPath": "D:/MUsiC/音效/Minecraft-打嗝.ogg(burp.ogg)_爱给网_aigei_com(1).wav",
+  "language": "zh-CN",
+  "textColor": "#FFFFFF",
+  "textOutlineEnabled": true,
+  "textOutlineColor": "#c19794",
+  "textOutlineWidth": 1
+}
